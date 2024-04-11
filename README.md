@@ -1,7 +1,10 @@
 # Prueba-tecnica-CRUD
 Requisitos previos:
-Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo e instalarlo desde el sitio web oficial de Node.js.
-Asegúrate de tener MongoDB instalado en tu sistema. Puedes descargarlo e instalarlo desde el sitio web oficial de MongoDB.
+Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo e instalarlo desde el sitio web oficial de Node.js:
+https://nodejs.org/en/download/current
+
+Asegúrate de tener MongoDB instalado en tu sistema. Puedes descargarlo e instalarlo desde el sitio web oficial de MongoDB:
+https://www.mongodb.com/try/download/community
 
 Configuración:
 Clonar el Repositorio: Clona el repositorio de tu aplicación desde GitHub o descárgalo como un archivo ZIP y extráelo en tu computadora.
